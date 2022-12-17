@@ -11,7 +11,6 @@ import ProductItemPage from "./pages/Products/ProductItemPage";
 import Products from "./pages/Products";
 import LazyWrapper from "./lazy-pages/LazyWrapper";
 import { LazyAbout } from "./lazy-pages/LazyAbout";
-console.log("Testing ..");
 
 function App() {
   return (
