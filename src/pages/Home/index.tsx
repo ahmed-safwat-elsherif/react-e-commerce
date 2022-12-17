@@ -1,10 +1,12 @@
-import React from 'react';
-import ViewProductsBtn from '../../components/home/ViewProductsBtn';
+import ViewProductsBtn from "../../components/home/ViewProductsBtn";
 
 function Home() {
-  return <>
-    <ViewProductsBtn />
-  </>;
+  return (
+    <>
+      <h1>Products</h1>
+      <ViewProductsBtn />
+    </>
+  );
 }
 
 export default Home;
